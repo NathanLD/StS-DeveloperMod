@@ -1,0 +1,17 @@
+{
+  "Developer": {
+    "NAME": "Developer",
+    "FLAVOR": "???",
+    "DESCRIPTIONS": [
+      "At the start of each battle, add a Virus in your discard pile."
+    ]
+  },
+  
+  "Headphones": {
+    "NAME": "Headphones",
+    "FLAVOR": "???",
+    "DESCRIPTIONS": [
+      "Totally cancels the disappearance of your Lines of Code."
+    ]
+  }
+}

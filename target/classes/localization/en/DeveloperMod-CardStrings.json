@@ -1,0 +1,109 @@
+{
+	"Update":{
+		"NAME": "Update",
+		"DESCRIPTION": "In !M! turns, upgrade ALL your deck for this battle. Exhaust."
+	},
+	
+	"SteamSales":{
+		"NAME": "STEAM sales",
+		"DESCRIPTION": "Time to save money! NL Earn !M! Gold X times. Exhaust."
+	},
+	
+	"InternetDisruption":{
+		"NAME": "Internet disruption",
+		"DESCRIPTION": "Unplayable NL Quick, save! Choose a card you absolutely want to keep. NL Then a random card is discarded."
+	},
+	
+	"BasicHack":{
+		"NAME": "Basic hack",
+		"DESCRIPTION": "Deal !D! damage."
+	},
+	
+	"AdvancedHack":{
+		"NAME": "Advanced hack",
+		"DESCRIPTION": "Deal !D! damage  write !M! Lines of Code."
+	},
+	
+	"Firewall":{
+		"NAME": "Firewall",
+		"DESCRIPTION": "Gain !B! Block."
+	},
+	
+	"Encryption":{
+		"NAME": "Encryption",
+		"DESCRIPTION": "Gain !B! Block for each enemy."
+	},
+	
+	"TargetedHack":{
+		"NAME": "Targeted hack",
+		"DESCRIPTION": "Deal !D! damage, but your enemy writes !M! Lines of Code."
+	},
+	
+	"BruteForceHack":{
+		"NAME": "Hack (Brute force)",
+		"DESCRIPTION": "Deal !D! damage to ALL ennemies. NL Everybody write !M! Lines of Code (including you).",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage to ALL enemies. NL You write !M! Lines of Code."
+	},
+	
+	"EraseEvidence":{
+		"NAME": "Erase evidence",
+		"DESCRIPTION": "Let's hide your programs! NL Play all the hacks from your draw pile and discard pile on an enemy.",
+		"UPGRADE_DESCRIPTION": "Let's hide your programs! NL Play all your hacks (wherever they are) on an enemy."
+	},
+	
+	"Coffee":{
+		"NAME": "Coffee",
+		"DESCRIPTION": "Your hacking programs are more powerful and deal !M! additional damage."
+	},
+	
+	"WeeklyMeeting":{
+		"NAME": "Weekly meeting",
+		"DESCRIPTION": "Time to debate : Give up or persevere on the project ?",
+		"UPGRADE_DESCRIPTION": "Time to debate : Give up or persevere on the project ? NL (Improved choices)"
+	
+	},
+	
+	"GameJam":{
+		"NAME": "Game Jam",
+		"DESCRIPTION": "Write !M! Lines of Code at the start of each turn."
+	},
+	
+	"Basket":{
+		"NAME": "Basket",
+		"DESCRIPTION": "Choose a card. NL Duplicate it or Exhaust it. Exhaust.",
+		"UPGRADE_DESCRIPTION": "Choose a card. NL Duplicate it or Exhaust it."
+	},
+	
+	"Pr0n":{
+		"NAME": "Pr0n",
+		"DESCRIPTION": "!M! Bugs. Draw 2 cards.",
+		"UPGRADE_DESCRIPTION": "!M! Bug. Draw 2 cards."
+	},
+	
+	"Antivirus":{
+		"NAME": "Antivirus",
+		"DESCRIPTION": "Increase your Bugs limit by !M!."
+	},
+	
+	"Snack":{
+		"NAME": "Snack",
+		"DESCRIPTION": "!M! Bugs. Gain !B! Block."
+	},
+	
+	"DayLight":{
+		"NAME": "Day Light",
+		"DESCRIPTION": "An enemy loses as much HP as its amount of Lines of Code.",
+		"UPGRADE_DESCRIPTION": "All enemies lose as much HP as their amount of Lines of Code."
+	},
+	
+	"PortableBattery":{
+		"NAME": "Portable battery",
+		"DESCRIPTION": "Write !M! Lines of Code. Next turn gain 1 energy."
+	},
+	
+	"Training":{
+		"NAME": "Training",
+		"DESCRIPTION": "Draw 1 card and write !M! Lines of Code."
+	}
+	
+}
