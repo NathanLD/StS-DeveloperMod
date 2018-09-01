@@ -1,0 +1,43 @@
+{
+	"LinesOfCode": {
+		"NAME": "Lines of Code",
+		"DESCRIPTIONS": [
+			"Attacks on this character have a ",
+			"% chance to turn against the caster. Keep writing Lines of Code or this rate will decrease..."
+		]
+	},
+	"Update": {
+		"NAME": "Update",
+		"DESCRIPTIONS": [
+			"In ",
+			" turns, upgrade all the cards in your deck."
+		]
+	},
+	"Coffee": {
+		"NAME": "Coffee",
+		"DESCRIPTIONS": [
+			"Your Hacking Programs are more powerful !"
+		]
+	},
+	"GameJam": {
+		"NAME": "Game Jam",
+		"DESCRIPTIONS": [
+			"At the start of your turn, you write ",
+			" Lines of Code."
+		]
+	},
+	"Bug": {
+		"NAME": "Bug",
+		"DESCRIPTIONS": [
+			"When you have ",
+			" Bugs, add a Virus in your discard pile."
+		]
+	},
+	"Antivirus": {
+		"NAME": "Antivirus",
+		"DESCRIPTIONS": [
+			"You max amount of Bugs is increased by ",
+			"."
+		]
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"modid": "developermod-sts",
+	"name": "DeveloperMod",
+	"author_list": ["NathanLD"],
+	"description": "Add a new character, the Developer.",
+	"dependencies": ["basemod"],
+	"version": "0.0.1",
+	"sts_version": "08-10-2018"
+}
